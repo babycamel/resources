@@ -24,3 +24,9 @@ Catchdynamics:
 [VMSbase](http://www.vmsbase.org/)
 
 [DLMtool: Data-Limited Methods Toolkit](https://cran.r-project.org/web/packages/DLMtool/)
+
+Oceanography: 
+
+This provides access to the NOAA data API:
+
+[nooaoceans](https://cran.r-project.org/web/packages/noaaoceans/index.html) 
