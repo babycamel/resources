@@ -21,7 +21,7 @@ Catchdynamics:
 
 [CatDyn](https://cran.r-project.org/web/packages/CatDyn/)
 
-[VMSbase](http://www.vmsbase.org/)
+[VMSbase](https://github.com/vmsbase/R-vmsbase)
 
 [DLMtool: Data-Limited Methods Toolkit](https://cran.r-project.org/web/packages/DLMtool/)
 
