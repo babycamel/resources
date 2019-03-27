@@ -1,4 +1,7 @@
 # A list of R Fisheries Resources
+
+[An introduction to basic fisheries analysis in R (UCSB)](https://sfg-ucsb.github.io/fishery-manageR/)
+
 This is a list of useful R packages for Fisheries:
 
 [Fishy packages](http://derekogle.com/fishR/packages)
