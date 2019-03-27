@@ -11,6 +11,12 @@ This is a list of useful R packages for Fisheries:
 
 [TropFish R package](https://github.com/tokami/TropFishR)
 
+Fisheries stock assessment:
+
+[FSA](https://github.com/droglenc/FSA)
+
+[fishdynr](https://github.com/marchtaylor/fishdynr)
+
 For Marine Protected areas this is the goto package:
 
 [BESTMPA](https://remi-daigle.github.io/BESTMPA/)
