@@ -29,4 +29,4 @@ Oceanography:
 
 This provides access to the NOAA data API:
 
-[nooaoceans](https://cran.r-project.org/web/packages/noaaoceans/index.html) 
+[noaaoceans](https://cran.r-project.org/web/packages/noaaoceans/index.html) 
