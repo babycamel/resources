@@ -39,3 +39,9 @@ Oceanography:
 This provides access to the NOAA data API:
 
 [noaaoceans](https://cran.r-project.org/web/packages/noaaoceans/index.html) 
+
+Marmap is used for downloading and plotting marine bathymetric and topographic data:
+
+[marmap](https://cran.r-project.org/web/packages/marmap/index.html)
+
+A PlosOne article about marmap [marmap: A Package for Importing, Plotting and Analyzing Bathymetric and Topographic Data in R](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073051)
