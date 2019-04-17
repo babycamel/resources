@@ -52,6 +52,6 @@ Boatnet a Mobile data collection platform for observers [Boatnet](https://github
 
 OPenEM Electronic monitoring software [OpenEM](https://github.com/openem-team/openem)
 
-[Vismon](http://www.vismon.org/index.html) Visual Fisheries management and fisheries data analaysis and visualization tool.
+[Vismon](http://www.vismon.org/index.html) Visual Fisheries management and fisheries data analysis and visualization tool.
 
 Miscellaneous fisheries links on [Github](https://github.com/topics/fisheries)
