@@ -1,4 +1,4 @@
-# A list of R Fisheries Resources
+# A list of mostly R Fisheries Resources 
 
 [An introduction to basic fisheries analysis in R (UCSB)](https://sfg-ucsb.github.io/fishery-manageR/)
 
@@ -47,5 +47,7 @@ Marmap is used for downloading and plotting marine bathymetric and topographic d
 A PlosOne article about marmap [marmap: A Package for Importing, Plotting and Analyzing Bathymetric and Topographic Data in R](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073051)
 
 Boatnet a Mobile data collection platform for observers [Boatnet](https://github.com/nwfsc-fram/boatnet) (not R but useful)
+
+OPenEM Electronic monitoring software [OpenEM](https://github.com/openem-team/openem)
 
 Miscellaneous fisheries links on [Github](https://github.com/topics/fisheries)
