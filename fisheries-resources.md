@@ -46,8 +46,12 @@ Marmap is used for downloading and plotting marine bathymetric and topographic d
 
 A PlosOne article about marmap [marmap: A Package for Importing, Plotting and Analyzing Bathymetric and Topographic Data in R](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073051)
 
+## Other non-R resources
+
 Boatnet a Mobile data collection platform for observers [Boatnet](https://github.com/nwfsc-fram/boatnet) (not R but useful)
 
 OPenEM Electronic monitoring software [OpenEM](https://github.com/openem-team/openem)
+
+[Vismon](http://www.vismon.org/index.html) Visual Fisheries management and fisheries data analaysis and visualization tool.
 
 Miscellaneous fisheries links on [Github](https://github.com/topics/fisheries)
