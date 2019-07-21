@@ -20,6 +20,10 @@ Fisheries stock assessment:
 
 [fishdynr](https://github.com/marchtaylor/fishdynr)
 
+Fisheries Management:
+
+[Generalised Management Strategy Evaluation (GMSE)](https://bradduthie.github.io/gmse/)
+
 For Marine Protected areas this is the goto package:
 
 [BESTMPA](https://remi-daigle.github.io/BESTMPA/)
