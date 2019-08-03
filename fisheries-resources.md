@@ -8,7 +8,7 @@ This is a list of useful R packages for Fisheries:
 
 [The Fisheries library in R](http://www.flr-project.org/)
 
-[The R package kobe](https://cran.r-project.org/web/packages/kobe/index.html) Most likely one needs to instll earlier versions as this currently appears to be unmaintained.
+[The R package kobe](https://cran.r-project.org/web/packages/kobe/index.html) Most likely one needs to install earlier versions as this currently appears to be unmaintained.
 
 [FishR](http://derekogle.com/fishR/)
 
