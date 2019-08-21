@@ -5,7 +5,7 @@
 [Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors. Readings in Database Systems, 5th Edition
 ](http://www.redbook.io/)
 
-[Artur Eijsmont, Web scalability for starup engineers](https://www.amazon.com/dp/B00ZPS4KI0/)
+[Artur Eijsmont, Web scalability for startup engineers](https://www.amazon.com/dp/B00ZPS4KI0/)
 
 [M. Kleppman. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1s](https://www.amazon.com/dp/1449373321/)
 
