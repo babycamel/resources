@@ -9,5 +9,7 @@
 
 [M. Kleppman. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1s](https://www.amazon.com/dp/1449373321/)
 
+[How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
+
 [The Aquabook: guidance on producing quality analysis for government ](https://www.gov.uk/government/publications/the-aqua-book-guidance-on-producing-quality-analysis-for-government)
 
