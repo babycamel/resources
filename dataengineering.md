@@ -3,7 +3,7 @@
 [Distributed systems for fun and profit](http://book.mixu.net/distsys/)
 
 [Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors. Readings in Database Systems, 5th Edition
-](http://www.redbook.io/)
+](http://www.redbook.io/) The Redbook.
 
 [Artur Eijsmont, Web scalability for startup engineers](https://www.amazon.com/dp/B00ZPS4KI0/)
 
