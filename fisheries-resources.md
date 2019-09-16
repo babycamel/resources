@@ -14,7 +14,7 @@ This is a list of useful R packages for Fisheries:
 
 [TropFish R package](https://github.com/tokami/TropFishR)
 
-[rfisheries access to the Openfisheries.org API](https://github.com/cran/rfisheries) This gives access to global fisheries catch and other data.
+[rfisheries access to the Openfisheries.org API](https://github.com/ropensci/rfisheries) This gives access to global fisheries catch and other data.
 
 Fisheries stock assessment:
 
