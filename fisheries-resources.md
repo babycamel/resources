@@ -22,6 +22,9 @@ Fisheries stock assessment:
 
 [fishdynr](https://github.com/marchtaylor/fishdynr)
 
+[multiStockAssessment](https://github.com/calbertsen/multi_SAM)
+
+
 Fisheries Management:
 
 [Generalised Management Strategy Evaluation (GMSE)](https://bradduthie.github.io/gmse/)
