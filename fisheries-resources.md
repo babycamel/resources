@@ -1,5 +1,7 @@
 # A list of mostly R Fisheries Resources 
 
+This is a list of mostly R packages and resources for fisheries. I've included some other materials including publicly avaialble notes on fisheries economics, and some non-R software fisheries managers as well as other resources.
+
 [An introduction to basic fisheries analysis in R (UCSB)](https://sfg-ucsb.github.io/fishery-manageR/)
 
 Fisheries economics:
