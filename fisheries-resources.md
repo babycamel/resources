@@ -67,6 +67,8 @@ A PlosOne article about marmap [marmap: A Package for Importing, Plotting and An
 
 [Sea-Py](https://pyoceans.github.io/sea-py/) Python oceanographic resources.
 
+[List of Python Geo-Spatial resources](https://github.com/sacridini/Awesome-Geospatial)
+
 ## Other non-R resources
 
 Boatnet a Mobile data collection platform for observers [Boatnet](https://github.com/nwfsc-fram/boatnet) (not R but useful)
