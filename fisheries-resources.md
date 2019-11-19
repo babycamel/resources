@@ -77,4 +77,6 @@ OPenEM Electronic monitoring software [OpenEM](https://github.com/openem-team/op
 
 [Vismon](http://www.vismon.org/index.html) Visual Fisheries management and fisheries data analysis and visualization tool.
 
+[Focus Fish](http://www.focus.fish/) Open source fisheries resources
+
 Miscellaneous fisheries links on [Github](https://github.com/topics/fisheries)
