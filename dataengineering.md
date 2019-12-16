@@ -15,3 +15,5 @@
 
 [The Aquabook: guidance on producing quality analysis for government ](https://www.gov.uk/government/publications/the-aqua-book-guidance-on-producing-quality-analysis-for-government)
 
+[The Changing Data Science And Data Engineering Tooling Environment (Forbes)](https://www.forbes.com/sites/cognitiveworld/2019/12/01/why-data-scientists-arent-data-engineers/#14c0cbae3445)
+
