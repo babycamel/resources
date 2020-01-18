@@ -11,6 +11,8 @@
 
 [A. Petrov. Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347/)
 
+[Ben Weber, Data Science in Production: Building Scalable Model Pipelines with Python](https://www.amazon.com/Data-Science-Production-Building-Pipelines-ebook/dp/B083H2YWP4/ref=sr_1_16?keywords=data+science&qid=1579316649&s=digital-text&sr=1-16)
+
 [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
 
 [The Aquabook: guidance on producing quality analysis for government ](https://www.gov.uk/government/publications/the-aqua-book-guidance-on-producing-quality-analysis-for-government)
