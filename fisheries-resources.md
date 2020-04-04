@@ -69,6 +69,11 @@ A PlosOne article about marmap [marmap: A Package for Importing, Plotting and An
 
 [List of Python Geo-Spatial resources](https://github.com/sacridini/Awesome-Geospatial)
 
+## C and C++
+
+[Maritime Vehicle Routing Problem Solver](https://github.com/alberto-santini/maritime-vrp)
+
+
 ## Other non-R resources
 
 Boatnet a Mobile data collection platform for observers [Boatnet](https://github.com/nwfsc-fram/boatnet) (not R but useful)
