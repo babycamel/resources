@@ -8,8 +8,6 @@ Fisheries economics:
 
 [Arne Eide, Introduction to Fisheries Economics](https://ndownloader.figshare.com/files/17585273)
 
-[Gabriel Lozada. Notes on Fisheries Economics](https://content.csbs.utah.edu/~lozada/Adv_Resource_Econ/Pvtfish4.pdf)
-
 This is a list of useful R packages for Fisheries:
 
 [Fishy packages](http://derekogle.com/fishR/packages)
