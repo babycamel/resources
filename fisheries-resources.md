@@ -82,4 +82,8 @@ OPenEM Electronic monitoring software [OpenEM](https://github.com/openem-team/op
 
 [Focus Fish](http://www.focus.fish/) Open source fisheries resources
 
+## Data
+
+[FishNet AI](https://www.fishnet.ai/home) Training datasets for machine elarning in fisheries.
+
 Miscellaneous fisheries links on [Github](https://github.com/topics/fisheries)
