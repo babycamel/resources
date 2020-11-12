@@ -84,7 +84,7 @@ OPenEM Electronic monitoring software [OpenEM](https://github.com/openem-team/op
 
 ## Data
 
-[FishNet AI](https://www.fishnet.ai/home) Training datasets for machine elarning in fisheries.
+[FishNet AI](https://www.fishnet.ai/home) Training datasets for machine learning in fisheries.
 
 ## Other
 
