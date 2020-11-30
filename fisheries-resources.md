@@ -86,6 +86,8 @@ OPenEM Electronic monitoring software [OpenEM](https://github.com/openem-team/op
 
 [FishNet AI](https://www.fishnet.ai/home) Training datasets for machine learning in fisheries.
 
+[Ram Legacy Stock Assessment Data](https://www.ramlegacy.org/)
+
 ## Other
 
 Miscellaneous fisheries links on [Github](https://github.com/topics/fisheries)
