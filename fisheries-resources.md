@@ -61,6 +61,8 @@ Marmap is used for downloading and plotting marine bathymetric and topographic d
 
 A PlosOne article about marmap [marmap: A Package for Importing, Plotting and Analyzing Bathymetric and Topographic Data in R](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073051)
 
+[ggOceanMaps](https://github.com/MikkoVihtakari/ggOceanMaps)
+
 ## Python
 
 [Sea-Py](https://pyoceans.github.io/sea-py/) Python oceanographic resources.
