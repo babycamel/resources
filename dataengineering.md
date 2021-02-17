@@ -21,4 +21,6 @@
 
 [The Changing Data Science And Data Engineering Tooling Environment (Forbes)](https://www.forbes.com/sites/cognitiveworld/2019/12/01/why-data-scientists-arent-data-engineers/#14c0cbae3445)
 
+[The Data Engineering Megatrend - A Brief History](https://rudderstack.com/blog/the-data-engineering-megatrend-a-brief-history)
+
 [Data version control (dvc)](https://github.com/iterative/dvc)
