@@ -88,7 +88,7 @@ OPenEM Electronic monitoring software [OpenEM](https://github.com/openem-team/op
 
 [FishNet AI](https://www.fishnet.ai/home) Training datasets for machine learning in fisheries.
 
-[Ships in Satellite Imagery (Kaggle)](https://www.kaggle.com/rhammell/ships-in-satellite-imagery) This is a labelled dataset for a Kaggle competition for ship classification.
+[Ships in Satellite Imagery (Kaggle)](https://www.kaggle.com/rhammell/ships-in-satellite-imagery) This is a labelled dataset for a Kaggle competition for ship classification. An example of a CNN for this here [Towards data science code example](https://towardsdatascience.com/classifying-ships-in-satellite-imagery-with-neural-networks-944024879651)
 
 [Ram Legacy Stock Assessment Data](https://www.ramlegacy.org/)
 
