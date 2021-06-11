@@ -94,6 +94,8 @@ OPenEM Electronic monitoring software [OpenEM](https://github.com/openem-team/op
 
 [Ram Legacy Stock Assessment Data](https://www.ramlegacy.org/)
 
+[FAO Fish Vessel Finder](http://www.fao.org/figis/vrmf/finder/search/#stats)
+
 ## Other
 
 Miscellaneous fisheries links on [Github](https://github.com/topics/fisheries)
