@@ -4,6 +4,8 @@ This is a list of mostly R packages and resources for fisheries. I've included s
 
 [An introduction to basic fisheries analysis in R (UCSB)](https://sfg-ucsb.github.io/fishery-manageR/)
 
+[Malcolm Haddon, Using R for Modelling and Quantitative Methods in Fisheries](https://haddonm.github.io/URMQMF/)
+
 Fisheries economics:
 
 [Arne Eide, Introduction to Fisheries Economics](https://ndownloader.figshare.com/files/17585273)
