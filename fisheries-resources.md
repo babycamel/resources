@@ -88,6 +88,8 @@ OPenEM Electronic monitoring software [OpenEM](https://github.com/openem-team/op
 
 [Focus Fish](http://www.focus.fish/) Open source fisheries resources
 
+[Displace](https://github.com/frabas/DISPLACE_GUI) GUI based tool to model displacement and movement of fish stocks for spatial fisheries planning and management.
+
 ## Data
 
 [FishNet AI](https://www.fishnet.ai/home) Training datasets for machine learning in fisheries.
