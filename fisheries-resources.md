@@ -92,6 +92,8 @@ OPenEM Electronic monitoring software [OpenEM](https://github.com/openem-team/op
 
 [Displace](https://github.com/frabas/DISPLACE_GUI) GUI based tool to model displacement and movement of fish stocks for spatial fisheries planning and management.
 
+[NOAA fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/)
+
 ## Data
 
 [FishNet AI](https://www.fishnet.ai/home) Training datasets for machine learning in fisheries.
@@ -100,7 +102,7 @@ OPenEM Electronic monitoring software [OpenEM](https://github.com/openem-team/op
 
 [Ram Legacy Stock Assessment Data](https://www.ramlegacy.org/)
 
-[FAO Fish Vessel Finder](http://www.fao.org/figis/vrmf/finder/search/#stats)
+[FAO Fish Vessel Finder](http://www.fao.org/figis/vrmf/finder/search/#stats) Broken link!
 
 ## Other
 
