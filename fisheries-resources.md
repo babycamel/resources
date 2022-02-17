@@ -104,6 +104,8 @@ OPenEM Electronic monitoring software [OpenEM](https://github.com/openem-team/op
 
 [FAO Fish Vessel Finder](http://www.fao.org/figis/vrmf/finder/search/#stats) Broken link!
 
+[Calfish](https://www.calfish.org/) Fisheries data from California.
+
 ## Other
 
 Miscellaneous fisheries links on [Github](https://github.com/topics/fisheries)
