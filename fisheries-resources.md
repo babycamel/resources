@@ -6,7 +6,7 @@ This is a list of mostly R packages and resources for fisheries. I've included s
 
 [Malcolm Haddon, Using R for Modelling and Quantitative Methods in Fisheries](https://haddonm.github.io/URMQMF/)
 
-### Fisheries economics:
+## Fisheries economics:
 
 [Arne Eide, Introduction to Fisheries Economics](https://ndownloader.figshare.com/files/17585273)
 
@@ -16,7 +16,7 @@ This is a list of mostly R packages and resources for fisheries. I've included s
 
 [Rob Hicks IPython notebook on the Gordon-Schaefer Model](https://rlhick.people.wm.edu/posts/gordon-shaefer-model.html)
 
-### This is a list of useful R packages for Fisheries:
+## This is a list of useful R packages for Fisheries:
 
 [Fishy packages](http://derekogle.com/fishR/packages)
 
@@ -30,7 +30,7 @@ This is a list of mostly R packages and resources for fisheries. I've included s
 
 [rfisheries access to the Openfisheries.org API](https://github.com/ropensci/rfisheries) This gives access to global fisheries catch and other data.
 
-Fisheries stock assessment:
+### Fisheries stock assessment:
 
 [FSA](https://github.com/droglenc/FSA)
 
