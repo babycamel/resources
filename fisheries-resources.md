@@ -8,7 +8,7 @@ This is a list of mostly R packages and resources for fisheries. I've included s
 
 ## Fisheries economics:
 
-[Arne Eide, Introduction to Fisheries Economics](https://ndownloader.figshare.com/files/17585273)
+[Arne Eide, Introduction to Fisheries Economics](https://ndownloader.figshare.com/files/17585273) uses Mathematica
 
 [my own notes, Notes on the Gordon-Schaefer Model (uses Python)](https://github.com/babycamel/afew/blob/master/notes-gordon-schaefer.pdf)
 
