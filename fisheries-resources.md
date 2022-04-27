@@ -6,7 +6,7 @@ This is a list of mostly R packages and resources for fisheries. I've included s
 
 [Malcolm Haddon, Using R for Modelling and Quantitative Methods in Fisheries](https://haddonm.github.io/URMQMF/)
 
-Fisheries economics:
+### Fisheries economics:
 
 [Arne Eide, Introduction to Fisheries Economics](https://ndownloader.figshare.com/files/17585273)
 
@@ -16,7 +16,7 @@ Fisheries economics:
 
 [Rob Hicks IPython notebook on the Gordon-Schaefer Model](https://rlhick.people.wm.edu/posts/gordon-shaefer-model.html)
 
-This is a list of useful R packages for Fisheries:
+### This is a list of useful R packages for Fisheries:
 
 [Fishy packages](http://derekogle.com/fishR/packages)
 
@@ -39,17 +39,17 @@ Fisheries stock assessment:
 [multiStockAssessment](https://github.com/calbertsen/multi_SAM)
 
 
-Fisheries Management:
+### Fisheries Management:
 
 [Generalised Management Strategy Evaluation (GMSE)](https://bradduthie.github.io/gmse/)
 
-For Marine Protected areas this is the goto package:
+### For Marine Protected areas this is the goto package:
 
 [BESTMPA](https://remi-daigle.github.io/BESTMPA/)
 
 [Marine Regions](https://recology.info/2016/06/marine-regions/)
 
-Catchdynamics:
+### Catchdynamics:
 
 [CatDyn](https://cran.r-project.org/web/packages/CatDyn/)
 
@@ -57,7 +57,7 @@ Catchdynamics:
 
 [DLMtool: Data-Limited Methods Toolkit](https://cran.r-project.org/web/packages/DLMtool/)
 
-Oceanography: 
+### Oceanography: 
 
 This provides access to the NOAA data API:
 
