@@ -77,6 +77,8 @@ A PlosOne article about marmap [marmap: A Package for Importing, Plotting and An
 
 [List of Python Geo-Spatial resources](https://github.com/sacridini/Awesome-Geospatial)
 
+[PyFerret](https://ferret.pmel.noaa.gov/Ferret/)
+
 ## C and C++
 
 [Maritime Vehicle Routing Problem Solver](https://github.com/alberto-santini/maritime-vrp)
