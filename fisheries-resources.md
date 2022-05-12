@@ -43,11 +43,13 @@ This is a list of mostly R packages and resources for fisheries. I've included s
 
 [Generalised Management Strategy Evaluation (GMSE)](https://bradduthie.github.io/gmse/)
 
+[openMSE](https://github.com/Blue-Matter/openMSE) and more here  [openMSE](https://openmse.com/)
+
 ### For Marine Protected areas this is the goto package:
 
 [BESTMPA](https://remi-daigle.github.io/BESTMPA/)
 
-[Marine Regions](https://recology.info/2016/06/marine-regions/)
+[Marine Regions](https://recology.info/2016/06/marine-regions/) 
 
 ### Catchdynamics:
 
