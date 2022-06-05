@@ -23,4 +23,6 @@
 
 [The Data Engineering Megatrend - A Brief History](https://rudderstack.com/blog/the-data-engineering-megatrend-a-brief-history)
 
+[Fallacies of distributed systems](https://architecturenotes.co/fallacies-of-distributed-systems/)
+
 [Data version control (dvc)](https://github.com/iterative/dvc)
