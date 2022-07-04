@@ -1,5 +1,7 @@
 # Some data engineering resources and references
 
+[Fundamentals of data engineering](https://www.amazon.com/Fundamentals-Data-Engineering-Joe-Reis-ebook/dp/B0B4VH4T37/)
+
 [Distributed systems for fun and profit](http://book.mixu.net/distsys/)
 
 [Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors. Readings in Database Systems, 5th Edition
