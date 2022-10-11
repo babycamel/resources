@@ -81,6 +81,8 @@ A PlosOne article about marmap [marmap: A Package for Importing, Plotting and An
 
 [PyFerret](https://ferret.pmel.noaa.gov/Ferret/)
 
+[OpenFisheries API](https://github.com/andrewjdyck/api.openfisheries.org) gives access to FAO FishStatJ data.
+
 ## C and C++
 
 [Maritime Vehicle Routing Problem Solver](https://github.com/alberto-santini/maritime-vrp)
