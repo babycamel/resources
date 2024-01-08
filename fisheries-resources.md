@@ -47,7 +47,9 @@ This is a list of mostly R packages and resources for fisheries. I've included s
 
 ### For Marine Protected areas this is the goto package:
 
-[BESTMPA](https://remi-daigle.github.io/BESTMPA/)
+[PriotizeR](https://prioritizr.net/) Basically a frontend/wrapper for Marxan
+
+[BESTMPA](https://remi-daigle.github.io/BESTMPA/) Not really maintained anymore which is a pity.
 
 [Marine Regions](https://recology.info/2016/06/marine-regions/) 
 
