@@ -45,7 +45,7 @@ This is a list of mostly R packages and resources for fisheries. I've included s
 
 [openMSE](https://github.com/Blue-Matter/openMSE) and more here  [openMSE](https://openmse.com/)
 
-### For Marine Protected areas this is the goto package:
+### Marine Protected Areas:
 
 [PriotizeR](https://prioritizr.net/) Basically a frontend/wrapper for Marxan
 
