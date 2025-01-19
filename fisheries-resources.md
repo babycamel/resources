@@ -38,6 +38,7 @@ This is a list of mostly R packages and resources for fisheries. I've included s
 
 [multiStockAssessment](https://github.com/calbertsen/multi_SAM)
 
+[FRDC Stock assessment toolbox](https://toolbox.frdc.com.au/) Contains a large range of resources on stock assessment.
 
 ### Fisheries Management:
 
