@@ -40,7 +40,7 @@ This is a list of mostly R packages and resources for fisheries. I've included s
 
 [FRDC Stock assessment toolbox](https://toolbox.frdc.com.au/) Contains a large range of resources on stock assessment.
 
-[TMB)(is https://cran.r-project.org/web/packages/TMB/index.html) Template Model Builder: A General Random Effect Tool Inspired by 'ADMB'.
+[TMB](https://cran.r-project.org/web/packages/TMB/index.html) Template Model Builder: A General Random Effect Tool Inspired by 'ADMB'.
 
 ### Fisheries Management:
 
