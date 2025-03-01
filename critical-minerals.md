@@ -18,5 +18,5 @@ Lists of critical minerals by country
 
 [NZ](https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/minerals-and-petroleum/critical-minerals-list/critical-minerals-list-2025)
 
-[NZ 20225 Report](https://www.beehive.govt.nz/sites/default/files/2025-01/202501%20New%20Zealand%27s%20Critical%20Minerals%20List.pdf)
+[NZ 2025 Report](https://www.beehive.govt.nz/sites/default/files/2025-01/202501%20New%20Zealand%27s%20Critical%20Minerals%20List.pdf)
 
