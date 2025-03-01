@@ -4,6 +4,8 @@ Lists of critical minerals by country
 
 [IEA](https://www.iea.org/topics/critical-minerals)
 
+[EU](https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials_en)
+
 [US geological survey 2022](https://www.usgs.gov/news/national-news-release/us-geological-survey-releases-2022-list-critical-minerals)
 
 [US Federal register](https://www.federalregister.gov/documents/2022/02/24/2022-04027/2022-final-list-of-critical-minerals)
