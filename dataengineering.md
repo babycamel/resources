@@ -28,3 +28,5 @@
 [Fallacies of distributed systems](https://architecturenotes.co/fallacies-of-distributed-systems/)
 
 [Data version control (dvc)](https://github.com/iterative/dvc)
+
+[Marc Demarest, The Politics of Data Warehousing](http://www.marcdemarest.com/dwpoly.html)
