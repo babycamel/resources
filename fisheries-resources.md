@@ -121,6 +121,13 @@ OPenEM Electronic monitoring software [OpenEM](https://github.com/openem-team/op
 
 [Calfish](https://www.calfish.org/) Fisheries data from California.
 
+[QFish QDPI](https://qfish.fisheries.qld.gov.au/)
+
+[AFMA Data](https://www.afma.gov.au/commercial-fishers/resources/commonwealth-fisheries-annual-catch-and-effort-data)
+
+[ABARES Data](https://www.agriculture.gov.au/abares/research-topics/fisheries/fisheries-data)
+
+
 ## Other
 
 Miscellaneous fisheries links on [Github](https://github.com/topics/fisheries)
