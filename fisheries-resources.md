@@ -92,10 +92,9 @@ A PlosOne article about marmap [marmap: A Package for Importing, Plotting and An
 
 [Maritime Vehicle Routing Problem Solver](https://github.com/alberto-santini/maritime-vrp)
 
-
 ## Other non-R resources
 
-Peskas fisheries management and data management tool from World Fish [Peskas.org](peskas.org)
+Peskas fisheries management and data management tool from World Fish [Peskas.org](https://peskas.org/))
 
 Boatnet a Mobile data collection platform for observers [Boatnet](https://github.com/nwfsc-fram/boatnet) (not R but useful)
 
