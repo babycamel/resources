@@ -130,6 +130,8 @@ OPenEM Electronic monitoring software [OpenEM](https://github.com/openem-team/op
 
 [Ocean archive](https://www.ocean-archive.org/)
 
+[ICES Fisheries Xplorer](https://ices-taf.shinyapps.io/fisheriesXplorer/)
+
 ## Other
 
 Miscellaneous fisheries links on [Github](https://github.com/topics/fisheries)
