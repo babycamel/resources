@@ -78,6 +78,10 @@ A PlosOne article about marmap [marmap: A Package for Importing, Plotting and An
 
 [ggOceanMaps](https://github.com/MikkoVihtakari/ggOceanMaps)
 
+### Coral Reefs
+
+[pointcoral](https://github.com/cran/pointcoral) An R package for processing coral reef photo survey data.
+
 ## Python
 
 [Sea-Py](https://pyoceans.github.io/sea-py/) Python oceanographic resources.
