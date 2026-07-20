@@ -92,6 +92,10 @@ A PlosOne article about marmap [marmap: A Package for Importing, Plotting and An
 
 [OpenFisheries API](https://github.com/andrewjdyck/api.openfisheries.org) gives access to FAO FishStatJ data.
 
+[MAVMRF](https://github.com/Fratres-X-AI/mavmrf) Maritime Autonomous Vehicle Monitoring and Response Framework — a simulation-first Python pipeline for multi-sensor maritime detect, track, and classify.
+
+
+
 ## C and C++
 
 [Maritime Vehicle Routing Problem Solver](https://github.com/alberto-santini/maritime-vrp)
