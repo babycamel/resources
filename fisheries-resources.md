@@ -88,7 +88,7 @@ A PlosOne article about marmap [marmap: A Package for Importing, Plotting and An
 
 [List of Python Geo-Spatial resources](https://github.com/sacridini/Awesome-Geospatial)
 
-[PyFerret](https://ferret.pmel.noaa.gov/Ferret/)
+[PyFerret](https://ferret.pmel.noaa.gov/Ferret/) Ferret is an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets. It runs on recent Unix and Mac systems, using X windows for display. PyFerret, introduced in 2012, is a Python module wrapping Ferret. PyFerret is an upgrade to Ferret which runs existing Ferret scripts and includes all Ferret functionality with updated graphics capabilities and additional analysis functions. In addition the pyferret module provides Python functions so Python users can easily take advantage of Ferret's abilities to retrieve, manipulate, visualize, and save data.
 
 [OpenFisheries API](https://github.com/andrewjdyck/api.openfisheries.org) gives access to FAO FishStatJ data.
 
