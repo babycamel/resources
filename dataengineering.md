@@ -29,4 +29,9 @@
 
 [Data version control (dvc)](https://github.com/iterative/dvc)
 
+[Michael J. Fischer, Nancy A. Lynch, and Michael S. Paterson. 1985. Impossibility of distributed consensus with one faulty process. J. ACM 32, 2 (April 1985), 374–382. https://doi.org/10.1145/3149.214121](https://dl.acm.org/doi/abs/10.1145/3149.214121) The FLP theorem.
+
+[A. Fox and E. A. Brewer, "Harvest, yield, and scalable tolerant systems," Proceedings of the Seventh Workshop on Hot Topics in Operating Systems, Rio Rico, AZ, USA, 1999, pp. 174-178, doi: 10.1109/HOTOS.1999.798396.
+keywords: {Degradation;Routing;Web server;Availability;Transaction databases;Costs;Internet;Read only memory;Search engines;Application software},](https://ieeexplore.ieee.org/document/798396) The CAP Theorem.
+
 [Marc Demarest, The Politics of Data Warehousing](http://www.marcdemarest.com/dwpoly.html)
