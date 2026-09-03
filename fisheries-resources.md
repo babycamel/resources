@@ -30,6 +30,8 @@ This is a list of mostly R packages and resources for fisheries. I've included s
 
 [rfisheries access to the Openfisheries.org API](https://github.com/ropensci/rfisheries) This gives access to global fisheries catch and other data.
 
+[pceandatr](https://github.com/emlab-ucsb/oceandatr) From EmLab. Provides simple functions for acquiring, processing and gridding ocean data.
+
 ### Fisheries stock assessment:
 
 [FSA](https://github.com/droglenc/FSA)
@@ -77,6 +79,14 @@ Marmap is used for downloading and plotting marine bathymetric and topographic d
 A PlosOne article about marmap [marmap: A Package for Importing, Plotting and Analyzing Bathymetric and Topographic Data in R](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073051)
 
 [ggOceanMaps](https://github.com/MikkoVihtakari/ggOceanMaps)
+
+[oce](https://cran.r-project.org/web/packages/oce/index.html) Supports the analysis of Oceanographic data, including 'ADCP' measurements, measurements made with 'argo' floats, 'CTD' measurements, sectional data, sea-level time series, coastline and topographic data, etc. Provides specialized functions for calculating seawater properties such as potential temperature in either the 'UNESCO' or 'TEOS-10' equation of state. Produces graphical displays that conform to the conventions of the Oceanographic literature. This package is discussed extensively by Kelley (2018) "Oceanographic Analysis with R" 
+
+[ocedata](https://cran.r-project.org/web/packages/ocedata/index.html) Data packages to support oce.
+
+
+
+
 
 ### Coral Reefs
 
