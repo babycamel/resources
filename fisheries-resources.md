@@ -16,6 +16,8 @@ This is a list of mostly R packages and resources for fisheries. I've included s
 
 [Rob Hicks IPython notebook on the Gordon-Schaefer Model](https://rlhick.people.wm.edu/posts/gordon-shaefer-model.html)
 
+[FishSet](https://noaa-nwfsc.github.io/FishSET/) The Spatial Economics Toolkit for R.
+
 ## This is a list of useful R packages for Fisheries:
 
 [Fishy packages](http://derekogle.com/fishR/packages)
