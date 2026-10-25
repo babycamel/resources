@@ -28,8 +28,6 @@ This is a list of mostly R packages and resources for fisheries. I've included s
 
 [The R package kobe](https://cran.r-project.org/web/packages/kobe/index.html) This can be now installed via the Fisheries library in R (FLR)
 
-[FishR](http://derekogle.com/fishR/)
-
 [TropFish R package](https://github.com/tokami/TropFishR)
 
 [rfisheries access to the Openfisheries.org API](https://github.com/ropensci/rfisheries) This gives access to global fisheries catch and other data.
