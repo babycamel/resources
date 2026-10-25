@@ -58,6 +58,8 @@ This is a list of mostly R packages and resources for fisheries. I've included s
 
 [Marine Regions](https://recology.info/2016/06/marine-regions/) 
 
+[ZonationR](https://cran.r-project.org/web/packages/ZonationR/index.html) R interface to Zonation see [Z 5](Zonation)
+
 ### Catchdynamics:
 
 [CatDyn](https://cran.r-project.org/web/packages/CatDyn/)
